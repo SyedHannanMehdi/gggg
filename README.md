@@ -1,36 +1,24 @@
 # gggg
 
-Welcome to the **gggg** repository! This project is currently in its early stages. Below you'll find everything you need to get started.
-
----
+A test repository.
 
 ## Overview
 
-This repository serves as the home for the `gggg` project. More details about the project's purpose and goals will be added here as the project evolves.
-
----
+This repository was set up as part of a bounty workflow test on [Algora](https://algora.io).
 
 ## Getting Started
 
-### Prerequisites
-
-Make sure you have [Git](https://git-scm.com/) installed on your machine.
-
-### Clone the Repository
+Clone the repository:
 
 ```bash
 git clone https://github.com/gerderanvogdsde5587/gggg.git
 cd gggg
 ```
 
----
-
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
----
+Contributions are welcome! Please open an issue or pull request.
 
 ## License
 
-License information is not yet specified.
+MIT
