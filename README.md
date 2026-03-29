@@ -1,10 +1,10 @@
 # gggg
 
-A test repository.
+Welcome to **gggg** — a repository for testing and experimentation.
 
 ## Overview
 
-This repository was set up as part of a bounty workflow test on [Algora](https://algora.io).
+This repository serves as a sandbox for trying out ideas, workflows, and integrations.
 
 ## Getting Started
 
@@ -15,10 +15,12 @@ git clone https://github.com/gerderanvogdsde5587/gggg.git
 cd gggg
 ```
 
+From there, explore the contents and make it your own!
+
 ## Contributing
 
-Contributions are welcome! Please open an issue or pull request.
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 
-MIT
+License information is not yet specified.
