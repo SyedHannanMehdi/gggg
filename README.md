@@ -1,26 +1,25 @@
 # gggg
 
-A starter repository.
+A starting point for this repository.
 
 ## Getting Started
 
-Clone the repository and install dependencies:
+Clone the repository to get started:
 
 ```bash
 git clone https://github.com/gerderanvogdsde5587/gggg.git
 cd gggg
-npm install
 ```
+
+No additional setup is required at this time.
 
 ## Usage
 
-```bash
-npm start
-```
+Explore the repository contents and modify files as needed for your project.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
